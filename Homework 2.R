@@ -1,5 +1,5 @@
 ##Homework 2 - Week 2
-setwd("C:/Users/ajohns34/Box/Data Science Specialization")
+setwd() #Masked for Github upload
 
 # Part 1
 # 
